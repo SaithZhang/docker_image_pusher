@@ -1,2 +1,7 @@
 nginx
 apache/kafka:latest
+elasticsearch:8.10.4
+bitnami/kafka:latest
+redis
+minio/minio:RELEASE.2025-04-22T22-12-26Z
+mysql:8
